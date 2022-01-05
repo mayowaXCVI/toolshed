@@ -1,0 +1,2 @@
+run = "jupyter notebook --config jupyter_notebook_config.py"
+# run = "python installation.py"
